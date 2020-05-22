@@ -1,2 +1,2 @@
-# Ekko Analytics
-web scraping + statistical analysis on predicting winning DraftKing lineups
+# ranklr
+using web scraping + statistical analysis to produce winning DraftKing lineups
